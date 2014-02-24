@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["manishspuri@gmail.com"]
   spec.summary       = %q{Find any city details like coordinates, temperature country. }
   spec.description   = %q{A wrapper for opemweathermap.org api.   }
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Manik-Ratnas/city_detail"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
