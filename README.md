@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-This is a wrapper for openweathermap.org api. With this gem, You can get city details like weather, longitude, latitude, country it belongs to, etc for any given city. 
+This is a wrapper for openweathermap.org api. With this gem, You can get details like weather, longitude, latitude, country it belongs to, etc for any given city. 
+
 
  This gem provides u access to following methods..
 
@@ -43,3 +44,5 @@ This is a wrapper for openweathermap.org api. With this gem, You can get city de
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+:collision: :collision: :collision:
