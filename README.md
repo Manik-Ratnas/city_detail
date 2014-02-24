@@ -1,5 +1,8 @@
 # CityDetail
 
+[![Gem Version](https://badge.fury.io/rb/city_detail.png)](http://badge.fury.io/rb/city_detail)
+
+
 A wrapper for openweathermap.org api.
 
 ## Installation
